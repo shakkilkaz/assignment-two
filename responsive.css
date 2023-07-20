@@ -1,0 +1,176 @@
+/* responsive  */
+
+@media screen and (max-width : 400px){
+    .main-header,.contant, nav > ul,.header-container,
+     .game-section,.card-section,
+     .pc-gamer,.imag-pc-game,.Careers,
+     .footer{
+        flex-direction: column;
+        width: 100%;
+    }
+    .contant{
+        align-items: center;
+        margin-top: 20px;
+    }
+   .about-header{
+    margin-left: 70px;
+   }
+   .btn{
+    margin-left: -70px;
+   }
+   
+   /* header  */
+    .header-container{
+        /* margin-left: 10px; */
+        padding: 20px;
+    }
+    .text-h2{
+        font-size: 24px;
+    }
+    .text-h1{
+        font-size: 50px;
+        margin: 20px 0px ;
+    }
+    .icon-container{
+        margin: 20px 0px ;
+    }
+   .img-container{
+    margin-top: -200px;
+   }
+
+   /* game-section */
+
+   .game-section{
+    padding: 20px 20px;
+   }
+   .details-gamer{
+    text-align: center;
+   }
+   .details-gamer p{
+    line-height: 18px;
+   }
+   /* online-game  */
+   .game{
+   margin-left: -10px;;
+   }
+    .card-section{
+        width: 100%;
+        padding: 10px;
+    }
+
+    .img-container img, .img-gamer img,
+    .img-pc-game img{
+        width: 100%;
+    }
+
+    /* pc-gamer */
+
+    .pc-gamer{
+        margin-top: -70px;
+        padding: 20px;
+    }
+
+
+    .little-img img{
+        width: 100%;
+        padding: 70px;
+      
+    }
+   .details-pc-game{
+    text-align: center;
+   }
+   .details-pc-game h1{
+    font-size: 40px;
+   }
+  .pc-p{
+    line-height: 10px;
+  }
+
+  /* Careers-section  */
+
+  .Careers{
+    font-size: 10px;
+    margin-top: -70px;
+    width: 100%;
+  }
+  .careers-text{
+    margin-top: -150px;
+    padding: 50px;
+    margin-left: -40px;
+  }
+  .flex-container,.btn-info{
+    margin-left: 10px;
+  }
+  .careers-text h1{
+    margin-top:100px;
+  }
+
+  .careers-img img{
+    padding: 0px 20px;
+    margin-top: -70px;
+    width: 100%;
+  }
+/* icon-section */
+ 
+.icon-container{
+ /* align-items: center;
+ justify-content: center; */
+}
+.icon-section{
+  
+  gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+.footer{
+  align-items: center;
+  justify-content: center; 
+  width: 100%;
+
+}
+
+.footer-container{
+  margin-left: 80px;
+  width: 100%;
+  align-items: center;
+}
+
+.social-net{
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
