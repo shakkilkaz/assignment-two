@@ -447,7 +447,7 @@ nav> ul li a{
         margin-top: 20px;
     }
    .about-header{
-    margin-left: 70px;
+    margin-left: 85px;
    }
    .btn{
     margin-left: -70px;
@@ -485,11 +485,12 @@ nav> ul li a{
    }
    /* online-game  */
    .game{
-   margin-left: -10px;;
+   margin-left: -10px;
    }
     .card-section{
         width: 100%;
         padding: 10px;
+        margin-left: 15px;
     }
 
     .img-container img, .img-gamer img,
