@@ -447,7 +447,8 @@ nav> ul li a{
         margin-top: 20px;
     }
    .about-header{
-    margin-left: 85px;
+    margin-top: -30px;
+    margin-left: 130px;
    }
    .btn{
     margin-left: -70px;
@@ -488,9 +489,9 @@ nav> ul li a{
    margin-left: -10px;
    }
     .card-section{
+        margin-top: -50px;
         width: 100%;
-        padding: 10px;
-        margin-left: 15px;
+      align-items: center;
     }
 
     .img-container img, .img-gamer img,
@@ -501,11 +502,11 @@ nav> ul li a{
     /* pc-gamer */
 
     .pc-gamer{
-        margin-top: -70px;
-        padding: 20px;
+     margin-top: -70px;
+     padding: 20px;
     }
-
-
+    
+   
     .little-img img{
         width: 100%;
         padding: 70px;
