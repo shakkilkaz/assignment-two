@@ -434,7 +434,7 @@ nav> ul li a{
 
 /* responsive website  */
 
-@media screen and (max-width : 400px){
+@media screen and (max-width : 576px){
     .main-header,.contant, nav > ul,.header-container,
      .game-section,.card-section,
      .pc-gamer,.imag-pc-game,.Careers,
