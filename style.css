@@ -508,7 +508,8 @@ nav> ul li a{
     
    
     .little-img img{
-        width: 100%;
+        width: 80%;
+        margin-left: -96px;
         padding: 70px;
       
     }
